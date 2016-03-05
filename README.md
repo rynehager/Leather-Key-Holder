@@ -1,5 +1,7 @@
 # Leather-Key-Holder
-An open design for a leather key retainer.
+An open design for a leather key retainer, which looks a little something like this:
+
+![](https://github.com/rynehager/Leather-Key-Holder/images/Keyfob.jpg "Delicious")
 
 Make sure you have read the license details for this project before you use these designs.
 
