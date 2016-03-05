@@ -1,5 +1,5 @@
 # Leather-Key-Holder
-An open design for a leather key retainer, which looks a little something like this:
+An open design for a leather key retainer, including laser-cutter or CNC ready Gcode files for both 4 and 6 key designs, which look a little something like this:
 
 ![](https://github.com/rynehager/Leather-Key-Holder/blob/master/Images/Keyfob.jpg?raw=true "Delicious")
 
